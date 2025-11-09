@@ -4,7 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:ff7b26&height=150&section=header&text=Kashish%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF7B26&center=true&vCenter=true&width=800&lines=I_like_to_code.py+🧠⌨️;I+love+coffee+☕;I+BUILD+ML+SYSTEMS+THAT+SHIP+🚀;debug+%3E+sleep+🐛😴" />
+<div align="center">
+🎯 What I'm Up To
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80">
+```yaml
+current_status:
+  🔭 researching: "Robustness in Multi-view Deep Learning @ DFKI"
+  🌱 learning: ["Docker", "MLOps", "Production ML Systems"]
+  💬 ask_me_about: ["PyTorch", "Multimodal AI", "LLM Fine-tuning"]
+  🎯 focus: "Bridging research and real-world ML applications"
+  ⚡ fun_fact: "debug > sleep 🐛😴"
+```
+</div>
 
 ###  <span style="color:#ff7b26">ML Engineer • Multimodal AI • Deep Learning Research</span>  
 #### *building intelligent systems that feel alive*
@@ -59,7 +70,7 @@ My work blends research and engineering into clean, scalable ML systems.
 
 ---
 
-## 🛠 Tech Stack (Orange Theme)
+## 🛠 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,docker,git,linux,opencv,postgres,fastapi,androidstudio&theme=light&perline=6" />
@@ -86,7 +97,7 @@ Fast, elegant, classroom-ready.
 
 ---
 
-## 📊 GitHub Analytics (Orange Themed)
+## 📊 GitHub Analytics
 
 <div align="center">
 
