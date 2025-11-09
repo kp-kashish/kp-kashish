@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=4A90E2&center=true&vCenter=true&width=800&lines=I_like_to_code.py+🧠⌨️;I+love+coffee+☕;I+BUILD+ML+SYSTEMS+THAT+SHIP+🚀;debug+%3E+sleep+🐛😴" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111,100:4a90e2&height=150&section=header&text=Kashish%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+### ᴍʟ ᴇɴɢɪɴᴇᴇʀ • ᴍᴜʟᴛɪᴍᴏᴅᴀʟ ᴀɪ • ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ʀᴇsᴇᴀʀᴄʜ  
+✨ *building intelligent systems that feel alive* ✨
 
 </div>
-
 
 ---
 
