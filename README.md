@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&duration=2300&color=FF7B26&center=true&vCenter=true&width=800&lines=I_like_to_code.py;Coffee+is+my+fuel;I+build+ML+systems+that+ship;debug+%3E+sleep" />
 
 ###  <span style="color:#ff7b26">ML Engineer • Multimodal AI • Deep Learning Research</span>  
-#### *building intelligent systems that feel alive*
 
 </div>
 
