@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Hi%20👋%20I'm%20Kashish&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Kashish&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=800&lines=I_like_to_code.py+🧠⌨️;I+love+coffee+☕;I+BUILD+ML+SYSTEMS+THAT+SHIP+🚀;debug+%3E+sleep+🐛😴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=800&lines=I_like_to_code.py+🧠⌨️;I+love+coffee+☕;I+BUILD+ML+SYSTEMS+THAT+SHIP+🚀;debug+%3E+sleep+🐛😴)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%7C+Multimodal+Learning;Master+Thesis+%40+DFKI;Building+the+future%2C+one+model+at+a+time" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%7C+Multimodal+Learning;Master+Thesis+%40+DFKI;Building+the+future%2C+one+model+at+a+time" alt="Subtitle" />
 
 </div>
 
@@ -82,12 +82,12 @@ Currently crushing it at **DFKI** (thesis on multi-view deep learning) and recen
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kp-kashish&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E&text_color=00D9FF&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp-kashish&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7931E&text_color=00D9FF" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=kp-kashish&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kp-kashish&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=FF6B35&text_color=c9d1d9" alt="Top Languages" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kp-kashish&theme=radical&hide_border=true&background=0D1117&stroke=F7931E&ring=F7931E&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kp-kashish&theme=dark&hide_border=true&background=1a1b27&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" width="600" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kp-kashish&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7931E&line=00D9FF&point=FF6B35" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kp-kashish&theme=github-compact&hide_border=true&bg_color=1a1b27&color=FF6B35&line=FF6B35&point=FF6B35" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -120,9 +120,9 @@ current_status:
 
 I'm actively seeking roles where I can ship ML systems that make an impact:
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="AI" width="40"/> **AI Engineer / ML Engineer**  
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Research" width="40"/> **Applied AI/ML Researcher**  
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Student" width="40"/> **Student Roles** (Full-time or Internship)
+**🤖 AI Engineer / ML Engineer**  
+**🔬 Applied AI/ML Researcher**  
+**🎓 Student Roles** (Full-time or Internship)
 
 *Specializing in:* **Multimodal AI** • **Deep Learning** • **LLM Fine-tuning**
 
@@ -144,19 +144,15 @@ I'm actively seeking roles where I can ship ML systems that make an impact:
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kp-kashish&color=F7931E&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kp-kashish&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Thanks+for+stopping+by!+🚀&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+for+stopping+by!+🚀&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
 ### *"Coffee in, Code out. Bugs? Nah, they're just features in disguise 😄"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
 
 ---
 
