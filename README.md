@@ -3,10 +3,8 @@
 <!-- Header with soft wave aesthetic -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:ff7b26&height=150&section=header&text=Kashish%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF7B26&center=true&vCenter=true&width=800&lines=I_like_to_code.py+🧠⌨️;I+love+coffee+☕;I+BUILD+ML+SYSTEMS+THAT+SHIP+🚀;debug+%3E+sleep+🐛😴" />
-
+<!-- FIXED Typing Animation (100 percent working) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&duration=2300&color=FF7B26&center=true&vCenter=true&width=800&lines=I_like_to_code.py;Coffee+is+my+fuel;I+build+ML+systems+that+ship;debug+%3E+sleep" />
 
 ###  <span style="color:#ff7b26">ML Engineer • Multimodal AI • Deep Learning Research</span>  
 #### *building intelligent systems that feel alive*
@@ -64,7 +62,7 @@ My work blends research and engineering into clean, scalable ML systems.
 ## 🛠 Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,docker,git,linux,opencv,postgres,fastapi,androidstudio&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,docker,git,linux,opencv,postgres,fastapi,androidstudio&perline=6" />
 </p>
 
 ---
@@ -108,12 +106,16 @@ Fast, elegant, classroom-ready.
   <a href="https://www.linkedin.com/in/kashish-patel29/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <!-- FIXED Website Icon -->
   <a href="https://kashish.website/">
-    <img src="https://skillicons.dev/icons?i=website" />
+    <img src="https://cdn.simpleicons.org/firefox/ff7b26" width="48" />
   </a>
+
   <a href="mailto:kashishpatel017@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  
   <a href="https://github.com/kp-kashish">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
