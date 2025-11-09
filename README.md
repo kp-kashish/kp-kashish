@@ -35,11 +35,11 @@ My work blends research and engineering into clean, scalable ML systems.
 
 ## ⚡ Highlights
 
-- 🔸 **89.5 percent multimodal accuracy** @ AICU  
-- 🔸 **DFKI thesis** on robustness in multi-view deep learning  
-- 🔸 Fine-tuned **FLAN-T5 with LoRA** (+2 BLEU improvement)  
-- 🔸 Built a real-time **Face Recognition System** (Raspberry Pi)  
-- 🔸 Android dev past, deep learning present  
+🔸 **89.5 percent multimodal accuracy** @ AICU  
+🔸 **DFKI thesis** on robustness in multi-view deep learning  
+🔸 Fine-tuned **FLAN-T5 with LoRA** (+2 BLEU improvement)  
+🔸 Built a real-time **Face Recognition System** (Raspberry Pi)  
+🔸 Android dev past, deep learning present  
 
 ---
 
